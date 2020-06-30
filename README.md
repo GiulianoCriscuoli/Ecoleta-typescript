@@ -1,5 +1,6 @@
 # Projeto Ecoleta
 
+ ![](web/src/assets/tela_inicial.png)
 
 
 # Descrição
